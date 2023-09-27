@@ -4,6 +4,9 @@
 
 PickingListsWarehousesBackendResourceRelationship module provides a relationship between picking lists and warehouses resources.
 
+**DEPRECATED - This module is not continued at this point.**
+Please use [spryker/picking-lists-warehouses-backend-api](https://github.com/spryker/picking-lists-warehouses-backend-api) instead.
+
 ## Installation
 
 ```
